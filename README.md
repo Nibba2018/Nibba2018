@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 >The above stats may or may not be accurate...
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Nibba2018.Nibba2018)
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 [![HitCount](http://hits.dwyl.com/Nibba2018/Nibba2018.svg)](http://hits.dwyl.com/Nibba2018/Nibba2018)
