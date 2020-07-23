@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 >The above stats may or may not be accurate...
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+[![HitCount](http://hits.dwyl.com/Nibba2018/Nibba2018.svg)](http://hits.dwyl.com/Nibba2018/Nibba2018)
