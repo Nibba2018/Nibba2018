@@ -11,4 +11,4 @@ This is **Soham Biswas** currently in 2nd year pursuing my bachelors degree in c
 
 >The above stats may or may not be accurate...
 
-[![HitCount](http://hits.dwyl.com/Nibba2018/Nibba2018.svg)](http://hits.dwyl.com/Nibba2018/Nibba2018)
+[![Visits Badge](https://badges.pufler.dev/visits/Nibba2018/git-badges)](https://badges.pufler.dev)
