@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### Experiences
 [![GSoC Logo Long](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-logo-horizontal-200.png)](https://summerofcode.withgoogle.com/projects/#6653942668197888)
 
 <!-- ![GSoC Logo](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-icon-192.png) -->
