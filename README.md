@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nibba2018&&theme=merko&&show_icons=true)
+*The above stats may or may not be accurate...*
+
 [![HitCount](http://hits.dwyl.com/Nibba2018/Nibba2018.svg)](http://hits.dwyl.com/Nibba2018/Nibba2018)
