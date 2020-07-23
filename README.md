@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is **Soham Biswas** currently in 2nd year pursuing my bachelors degree in computer science and engineering from Institute of Engineering and Management, Kolkata. I am a Cybersecurity and Machine Learning enthusiast, technical blogger and I also like contributing to Open Source projects.
+
 [![GSoC Logo Long](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-logo-horizontal-200.png)](https://summerofcode.withgoogle.com/projects/#6653942668197888)
 
 <!-- ![GSoC Logo](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-icon-192.png) -->
