@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Nibba2018&&theme=merko&&show_icons=true)
+[![HitCount](http://hits.dwyl.com/Nibba2018/Nibba2018.svg)](http://hits.dwyl.com/Nibba2018/Nibba2018)
