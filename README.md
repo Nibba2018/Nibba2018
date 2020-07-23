@@ -6,8 +6,8 @@ This is **Soham Biswas** currently in 2nd year pursuing my bachelors degree in c
 
 <!-- ![GSoC Logo](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-icon-192.png) -->
 [![PSF Logo](https://www.python.org/static/community_logos/python-logo.png)](https://summerofcode.withgoogle.com/projects/#6653942668197888)
-<img src="https://winterofcode.com/img/lg.png" alt="woc" width="75"/>
-<img src="https://avatars0.githubusercontent.com/u/43922030?s=200&v=4" alt="code-foundation" width=75/>
+<a href="https://winterofcode.com"><img src="https://winterofcode.com/img/lg.png" alt="woc" width="60"/></a>
+<a href="https://github.com/thecodefoundation/Vison-WoC-Backend/pull/9"><img src="https://avatars0.githubusercontent.com/u/43922030?s=200&v=4" alt="code-foundation" width=60/></a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nibba2018&&theme=merko&&show_icons=true)
 
