@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-This is **Soham Biswas** currently in 3rd year pursuing my bachelors degree in computer science and engineering from Institute of Engineering and Management, Kolkata. I am a Cybersecurity and Machine Learning enthusiast, technical blogger and I also like contributing to Open Source projects.
+This is **Soham Biswas** currently in 3rd year pursuing my bachelors degree in computer science and engineering from Institute of Engineering and Management, Kolkata. I am a Machine Learning and Scientific Computation enthusiast, technical blogger and I also like contributing to Open Source projects.
 
 #### Stuff I do/did:
 [![GSoC Logo Long](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-logo-horizontal-200.png)](https://summerofcode.withgoogle.com/projects/#6653942668197888)
 
-<a href="https://summerofcode.withgoogle.com/projects/#6653942668197888"><img src="https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-icon-192.png" alt="gsoc" width="75"/></a>
+<a href="https://gist.github.com/Nibba2018/85cdec3d0d0eb17ae0f8fb079a82b1b1"><img src="https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-icon-192.png" alt="gsoc" width="75"/></a>
 <a href="https://summerofcode.withgoogle.com/projects/#6653942668197888"><img src="https://www.python.org/static/community_logos/python-logo.png"/></a>
 <a href="https://fury.gl/latest/community.html"><img src="https://python-gsoc.org/logos/FURY.png" alt="fury" width="200"/></a>
 <a href="https://winterofcode.com"><img src="https://winterofcode.com/img/lg.png" alt="woc" width="75"/></a>
