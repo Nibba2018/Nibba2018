@@ -5,7 +5,7 @@ This is **Soham Biswas** currently in 3rd year pursuing my bachelors degree in c
 #### Stuff I do/did:
 [![GSoC Logo Long](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-logo-horizontal-200.png)](https://summerofcode.withgoogle.com/projects/#6653942668197888)
 
-<a href="https://be-dep-co.web.cern.ch/content/introduction-be-co-control-system"><img src="https://home.cern/sites/home.web.cern.ch/files/logo/cern-logo.png" width="75" alt="cern"></a>
+<a href="https://be-dep-css.web.cern.ch/"><img src="https://home.cern/sites/home.web.cern.ch/files/logo/cern-logo.png" width="75" alt="cern"></a>
 <a href="https://gist.github.com/Nibba2018/85cdec3d0d0eb17ae0f8fb079a82b1b1"><img src="https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-icon-192.png" alt="gsoc" width="75"/></a>
 <a href="https://summerofcode.withgoogle.com/projects/#6653942668197888"><img src="https://www.python.org/static/community_logos/python-logo.png"/></a>
 <a href="https://fury.gl/latest/community.html"><img src="https://python-gsoc.org/logos/FURY.png" alt="fury" width="200"/></a>
