@@ -19,5 +19,4 @@ Professional Magnet collector 🧲
 <a href="https://www.linkedin.com/in/soham-biswas-590784168/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="75"/></a>
 <a href="https://medium.com/@Nibba2018"><img src="https://miro.medium.com/max/195/1*emiGsBgJu2KHWyjluhKXQw.png" alt="medium" width="75"/></a>
 <a href="https://blogs.python-gsoc.org/en/nibba2018s-blog/"><img src="https://python-gsoc.org/logos/psf.png" alt="python-gsoc" width="75"></a>
-
-<center><a href="https://www.instagram.com/sohambiswas1/"><img src="insta_qr.png"></center>
+<a href="https://www.instagram.com/sohambiswas1/"><img src="insta_qr.png">
