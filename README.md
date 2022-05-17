@@ -1,5 +1,3 @@
-### Hi there 👋
-
 **Soham Biswas**<br>
 🇮🇳🇨🇭🇫🇷🇪🇸🇮🇹🇭🇺🇩🇪🇳🇱🇻🇦🇨🇿<br>
 Help physicists smash invisible things together. 💫💫<br>
