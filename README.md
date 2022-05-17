@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-This is **Soham Biswas** currently in 3rd year pursuing my bachelors degree in computer science and engineering from Institute of Engineering and Management, Kolkata. I am a Machine Learning and Scientific Computing enthusiast, technical blogger and I also like contributing to Open Source projects.
+**Soham Biswas**
+
+🇮🇳🇨🇭🇫🇷🇪🇸🇮🇹🇭🇺🇩🇪🇳🇱🇻🇦🇨🇿
+
+Help physicists smash invisible things together. 💫💫
+
+Adrenaline Junkie 💉
+
+Self proclaimed chef 👨‍🍳
+
+Professional Magnet collector 🧲
 
 #### Stuff I do/did:
 [![GSoC Logo Long](https://developers.google.com/open-source/gsoc/resources/downloads/GSoC-logo-horizontal-200.png)](https://summerofcode.withgoogle.com/projects/#6653942668197888)
