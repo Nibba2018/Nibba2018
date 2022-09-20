@@ -15,7 +15,9 @@ Professional Magnet collector 🧲
 <a href="https://drive.google.com/file/d/0B3AYKzFdd-xJNHVudjZGU0g1a3ZhWDNfb2QxTEl3Vkl1N09B/view?usp=sharing"><img src="http://www.iitrpr.ac.in/sites/default/files/image.jpg" alt="iitr" width="75"></a>
 <a href="https://github.com/thecodefoundation/Vison-WoC-Backend/pull/9"><img src="https://avatars0.githubusercontent.com/u/43922030?s=200&v=4" alt="code-foundation" width=75/></a>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Nibba2018?theme=dark&font=baloo&extension=activity)
+Currently grinding on leetcode:
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Nibba2018?ext=contest)](https://leetcode.com/Nibba2018)
 
 #### Places to find me:
 <a href="https://www.linkedin.com/in/soham-biswas-590784168/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="75"/></a>
