@@ -17,7 +17,7 @@ Professional Magnet collector 🧲
 
 Currently grinding on leetcode:
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Nibba2018?ext=contest)](https://leetcode.com/Nibba2018)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Nibba2018?ext=contest&theme=dark)](https://leetcode.com/Nibba2018)
 
 #### Places to find me:
 <a href="https://www.linkedin.com/in/soham-biswas-590784168/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" width="75"/></a>
